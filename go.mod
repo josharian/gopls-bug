@@ -1,3 +1,3 @@
-module vanilla.xyz
+module chocolate.xyz
 
 go 1.15

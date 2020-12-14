@@ -1,3 +1,3 @@
 package p
 
-import _ "vanilla.xyz/sub"
+import _ "chocolate.xyz/sub"
